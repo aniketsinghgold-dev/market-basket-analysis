@@ -1,0 +1,9 @@
+{
+  "name": "market-basket-intelligence-platform",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "run_platform.bat",
+    "build": "cd frontend && npm install && npm run build"
+  }
+}

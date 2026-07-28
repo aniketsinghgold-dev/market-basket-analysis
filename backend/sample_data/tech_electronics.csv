@@ -1,0 +1,34 @@
+TransactionID,ItemDescription,Category,Quantity,Price
+5001,Gaming Laptop 15-inch,Computers,1,1299.99
+5001,Wireless Ergonomic Mouse,Peripherals,1,49.99
+5001,Mechanical RGB Keyboard,Peripherals,1,89.99
+5001,Laptop Cooling Pad,Accessories,1,29.99
+5002,4K UHD Monitor 27-inch,Displays,1,349.99
+5002,High-Speed HDMI Cable,Cables,2,14.99
+5002,Monitor Desk Mount,Accessories,1,45.00
+5003,Gaming Laptop 15-inch,Computers,1,1299.99
+5003,Wireless Ergonomic Mouse,Peripherals,1,49.99
+5003,USB-C Multiport Hub,Peripherals,1,39.99
+5004,Noise-Canceling Headphones,Audio,1,199.99
+5004,Headphone Stand with USB,Accessories,1,24.99
+5005,Wireless Ergonomic Mouse,Peripherals,1,49.99
+5005,Mechanical RGB Keyboard,Peripherals,1,89.99
+5005,Extended Mouse Pad,Accessories,1,19.99
+5006,4K UHD Monitor 27-inch,Displays,1,349.99
+5006,High-Speed HDMI Cable,Cables,1,14.99
+5007,Gaming Laptop 15-inch,Computers,1,1299.99
+5007,Wireless Ergonomic Mouse,Peripherals,1,49.99
+5007,Laptop Backpack,Accessories,1,59.99
+5008,Noise-Canceling Headphones,Audio,1,199.99
+5008,USB-C Multiport Hub,Peripherals,1,39.99
+5009,Mechanical RGB Keyboard,Peripherals,1,89.99
+5009,Extended Mouse Pad,Accessories,1,19.99
+5010,Gaming Laptop 15-inch,Computers,1,1299.99
+5010,Wireless Ergonomic Mouse,Peripherals,1,49.99
+5010,Mechanical RGB Keyboard,Peripherals,1,89.99
+5010,High-Speed HDMI Cable,Cables,1,14.99
+5011,4K UHD Monitor 27-inch,Displays,2,349.99
+5011,High-Speed HDMI Cable,Cables,2,14.99
+5011,Monitor Desk Mount,Accessories,1,45.00
+5012,Wireless Ergonomic Mouse,Peripherals,1,49.99
+5012,Mechanical RGB Keyboard,Peripherals,1,89.99
