@@ -371,8 +371,10 @@ This repository is intended for educational and portfolio purposes.
 ---
 
 <div align="center">
+vercel link:-market-basket-analysis-ten.vercel.app
 
-# 👨‍💻 Author
+  
+  # 👨‍💻 Author
 
 ## Aniket Singh
 
@@ -382,7 +384,7 @@ AI • Machine Learning • Software Development • Data Analytics
 
 GitHub
 
-https://github.com/aniketsinghgold-dev
+
 
 ---
 
